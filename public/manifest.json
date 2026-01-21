@@ -1,0 +1,24 @@
+{
+  "short_name": "Innovest Rates",
+  "name": "Innovest Mortgage Rate Prediction Tool",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#206491",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "description": "Mortgage rate prediction and loan comparison tool for NZ advisers"
+}
